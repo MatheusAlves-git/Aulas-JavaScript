@@ -1,1 +1,13 @@
-ex001 / Aula 4
+.length             conta quantos caracteres tem a string
+.toUpperCase()      deixa tudo maisculo
+.toLowerCase()      deixa tudo minusculo
+.toFixed(2)         quantidade de casa decimais
+.replace('', '')    troca um elemento por outro
+.toLocaleString('pt-br', {style: 'currency', 'BRL'})    converte valor em uma moeda especifica
+
+OPERADORES LÓGICOS:
+
+! 	negação	  = não
+&& 	conjunção = e
+|| 	disjunção = ou
+
