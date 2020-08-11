@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(106, 115, 243);
+}
+
+h1{
+    color: white;
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Arial;
+    white-space: nowrap;
+}
+
+div{
+    background: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 125px;
+}
+
+.div_entrada{
+    position: relative;
+}
+
+.entrada{
+    position: absolute;
+    left: 42%;
+    top: 14px;
+}
+
+.btn_adicionar{
+    position: absolute;
+    left: 80%;
+    top: 10%;
+
+}
+
+p{
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    font-size: 16px;
+    font-weight: bolder;
+    font-family: Arial;
+
+}
+.div_saida{
+    position: relative;
+}
+
+.caixa_texto{
+    position: absolute;
+    top: -60%;
+    left: 5%;
+    width: 200px;
+}
+
+.btn_finalizar{
+    position: absolute;
+    top: 70%;
+    left: 5%;
+}
+
+h2{
+    color: white;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Arial;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: unset;
+    font-style: italic;
+}
